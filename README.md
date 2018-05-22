@@ -3,5 +3,5 @@
 
 ## 太极学院
 
-readme
+read
 master
